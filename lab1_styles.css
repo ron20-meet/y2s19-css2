@@ -16,3 +16,15 @@ p {
 a {
     color:red;
 }
+
+a:hover {
+	color: blue;
+}
+#important_paragraph:hover {
+background: yellow;
+font-size: 40px;
+font-family: david	
+}
+.less_important_paragraph:hover{
+	color: blue; 
+}
